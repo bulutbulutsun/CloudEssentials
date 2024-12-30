@@ -1,0 +1,7 @@
+---
+name: CloudEssentials
+version: 0.0.1
+main: bulutbulutsun\CloudEssentials\Loader
+api: 5.23.3
+src-namespace-prefix: bulutbulutsun\CloudEssentials
+...
